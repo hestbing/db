@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\dobavit.o
+./release\dobavit_comand.o
+./release\dobavit_ucha.o
+./release\dobavit_proved.o
+./release\pac.o
+./release\redact.o
+./release\moc_mainwindow.o
+./release\moc_dobavit.o
+./release\moc_dobavit_comand.o
+./release\moc_dobavit_ucha.o
+./release\moc_dobavit_proved.o
+./release\moc_pac.o
+./release\moc_redact.o
+);

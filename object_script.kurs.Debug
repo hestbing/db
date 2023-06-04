@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\dobavit.o
+./debug\dobavit_comand.o
+./debug\dobavit_ucha.o
+./debug\dobavit_proved.o
+./debug\pac.o
+./debug\redact.o
+./debug\moc_mainwindow.o
+./debug\moc_dobavit.o
+./debug\moc_dobavit_comand.o
+./debug\moc_dobavit_ucha.o
+./debug\moc_dobavit_proved.o
+./debug\moc_pac.o
+./debug\moc_redact.o
+);
